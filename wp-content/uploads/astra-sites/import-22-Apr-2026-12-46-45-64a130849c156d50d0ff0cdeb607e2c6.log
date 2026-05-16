@@ -1,0 +1,79 @@
+
+[00:47:05 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":77,"offset":"30","chunk_size":10}
+[00:47:05 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":"30"}
+[00:47:05 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":334,"file":"plants-store-gallery-img-2.jpg"}
+[00:47:05 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":335,"file":"plants-store-gallery-img-3.jpg"}
+[00:47:06 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":336,"file":"plants-store-gallery-img-4.jpg"}
+[00:47:06 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":337,"file":"plants-store-gallery-img-5.jpg"}
+[00:47:06 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":434,"file":"plants-store-hero-img.jpg"}
+[00:47:07 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":438,"file":"site-favicon.png"}
+[00:47:07 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":492,"file":"plants-store-testimonials-avatar-img-2.jpg"}
+[00:47:07 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":493,"file":"plants-store-testimonials-avatar-img-1.jpg"}
+[00:47:07 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":544,"file":"plants-store-gift-card-section-img.jpg"}
+[00:47:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":548,"file":"plants-store-story-section-img.jpg"}
+[00:47:10 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":40}
+[00:47:10 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":77,"offset":40,"chunk_size":10}
+[00:47:10 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":40}
+[00:47:10 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":632,"file":"plants-shop-product-gallery-img-4.jpg"}
+[00:47:10 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":633,"file":"plants-shop-product-gallery-img-5.jpg"}
+[00:47:11 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":634,"file":"plants-shop-product-gallery-img-6.jpg"}
+[00:47:12 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":635,"file":"plants-shop-product-gallery-img-7.jpg"}
+[00:47:12 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":636,"file":"plants-shop-product-gallery-img-8.jpg"}
+[00:47:13 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":637,"file":"plants-shop-product-gallery-img-9.jpg"}
+[00:47:14 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":638,"file":"plants-shop-product-gallery-img-10.jpg"}
+[00:47:14 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":640,"file":"plants-shop-product-gallery-img-12.jpg"}
+[00:47:15 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":641,"file":"plants-shop-product-gallery-img-13.jpg"}
+[00:47:15 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":642,"file":"plants-shop-product-gallery-img-14.jpg"}
+[00:47:16 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":50}
+[00:47:16 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":77,"offset":50,"chunk_size":10}
+[00:47:16 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":50}
+[00:47:16 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":643,"file":"plants-shop-product-gallery-img-15.jpg"}
+[00:47:17 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":644,"file":"plants-shop-product-gallery-img-16.jpg"}
+[00:47:17 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":645,"file":"plants-shop-product-gallery-img-17.jpg"}
+[00:47:18 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":646,"file":"plants-shop-product-gallery-img-18.jpg"}
+[00:47:19 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":647,"file":"plants-shop-product-gallery-img-19.jpg"}
+[00:47:19 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":648,"file":"plants-shop-product-gallery-img-20.jpg"}
+[00:47:20 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":649,"file":"plants-shop-product-gallery-img-1.jpg"}
+[00:47:21 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":650,"file":"plants-shop-product-gallery-img-2.jpg"}
+[00:47:21 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":651,"file":"plants-shop-product-gallery-img-3.jpg"}
+[00:47:22 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":652,"file":"plants-shop-product-gallery-img-011.jpg"}
+[00:47:23 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":60}
+[00:47:23 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":77,"offset":60,"chunk_size":10}
+[00:47:23 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":60}
+[00:47:23 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":684,"file":"plants-ecommerce-accessories-product-featured-img-2.jpg"}
+[00:47:23 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":685,"file":"plants-ecommerce-accessories-product-featured-img-3.jpg"}
+[00:47:24 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":686,"file":"plants-ecommerce-accessories-product-featured-img-4.jpg"}
+[00:47:25 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":687,"file":"plants-ecommerce-accessories-product-featured-img-1.jpg"}
+[00:47:25 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":699,"file":"plants-ecommerce-accessories-product-featured-img-5.jpg"}
+[00:47:26 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":741,"file":"plants-store-categories-img-2.jpg"}
+[00:47:26 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":742,"file":"plants-store-categories-img-4.jpg"}
+[00:47:26 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":743,"file":"plants-store-categories-img-3.jpg"}
+[00:47:26 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":744,"file":"plants-store-categories-img-1.jpg"}
+[00:47:27 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":748,"file":"plants-store-hero-section-img-bg.jpg"}
+[00:47:29 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":70}
+[00:47:37 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":77,"offset":"70","chunk_size":10}
+[00:47:37 UTC] [INFO] Processing CE image batch | Context: {"batch_size":7,"offset":"70"}
+[00:47:37 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":840,"file":"footer-bg.jpg"}
+[00:47:40 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":841,"file":"footer-background.jpg"}
+[00:47:42 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":845,"file":"hero-section-bg.jpg"}
+[00:47:44 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1011,"file":"cropped-site-favicon.png"}
+[00:47:45 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1117,"file":"woocommerce-placeholder.png"}
+[00:47:47 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1377,"file":"demo-screenshot.jpg"}
+[00:47:48 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2120,"file":"default.png"}
+[00:47:48 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":7,"errors":0,"new_offset":80}
+[00:47:48 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":77,"offset":80,"chunk_size":10}
+[00:47:48 UTC] [INFO] Processing CE image batch | Context: {"batch_size":0,"offset":80}
+[00:47:48 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":0,"errors":0,"new_offset":90}
+[00:47:48 UTC] [INFO] ---- Processing Images from Widgets -----
+[00:47:48 UTC] [INFO] ---- Processing Contact Form Mapping from Text Widgets -----
+[00:47:48 UTC] [INFO] ---- Processing batch process for Customizer start ----
+[00:47:48 UTC] [INFO] Starting image import for URL: http://localhost/wordpress/wp-content/uploads/2021/08/site-logo-white.svg
+[00:47:48 UTC] [WARNING] Invalid image URL provided: http://localhost/wordpress/wp-content/uploads/2021/08/site-logo-white.svg
+[00:47:48 UTC] [INFO] ---- Processing batch process for Customizer done ----
+[18:58:03 UTC] [INFO] Checking if plugin directory clearing is needed
+[06:06:37 UTC] [INFO] Checking if plugin directory clearing is needed
+[06:06:51 UTC] [INFO] Checking if plugin directory clearing is needed
+[09:11:33 UTC] [INFO] Checking if plugin directory clearing is needed
+[19:03:26 UTC] [INFO] Checking if plugin directory clearing is needed
+[19:03:57 UTC] [INFO] Checking if plugin directory clearing is needed
+[01:57:10 UTC] [INFO] Checking if plugin directory clearing is needed
