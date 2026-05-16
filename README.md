@@ -271,9 +271,8 @@ https://caycanhon.click/wordpress/shop/
 
 Trang chủ hiển thị banner chính với phong cách hiện đại, tối giản.
 
-```markdown
-![Trang chủ](images/homepage.png)
-```
+<img width="916" height="562" alt="image" src="https://github.com/user-attachments/assets/26e3e3ed-f7b2-4a8c-bc25-e58b55620876" />
+
 
 ---
 
