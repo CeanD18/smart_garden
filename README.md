@@ -283,9 +283,8 @@ Bao gồm:
 - Bộ lọc khoảng giá
 - Bộ lọc thuộc tính
 
-```markdown
-![Shop Page](images/shop-page.png)
-```
+<img width="916" height="549" alt="image" src="https://github.com/user-attachments/assets/e9e71d1c-1df3-44fb-999b-8bf4a8a966a0" />
+
 
 ---
 
@@ -297,9 +296,8 @@ Hiển thị:
 - Thông tin chi tiết
 - Nút mua hàng
 
-```markdown
-![Chi tiết sản phẩm](images/product-detail.png)
-```
+<img width="2139" height="1146" alt="image" src="https://github.com/user-attachments/assets/a16c0705-d8d1-4cbf-a326-3d023e9890b8" />
+
 
 ---
 
@@ -307,9 +305,8 @@ Hiển thị:
 
 QR động VietQR tự sinh theo nội dung đơn hàng.
 
-```markdown
-![Thanh toán QR](images/payment-qr.png)
-```
+<img width="916" height="496" alt="image" src="https://github.com/user-attachments/assets/3819633b-01de-4805-bc9f-4e16f85b07eb" />
+
 
 ---
 
@@ -317,11 +314,8 @@ QR động VietQR tự sinh theo nội dung đơn hàng.
 
 Giao diện quản trị dữ liệu tập trung cho Admin.
 
-```markdown
-![Dashboard](images/admin-dashboard.png)
-```
+<img width="916" height="547" alt="image" src="https://github.com/user-attachments/assets/f0575310-9c66-4098-b9e6-d3cc6ca0e36d" />
 
----
 
 # ✅ 8. Kết Luận
 
