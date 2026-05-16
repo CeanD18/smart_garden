@@ -255,7 +255,7 @@ https://caycanhon.click/wordpress/shop/
 ## Video Demo
 
 ```plaintext
-(Nhóm thêm link Google Drive hoặc Youtube tại đây)
+(https://drive.google.com/file/d/1wUc50SZx20ca0n3hxnpUKggRfZuXpWEK/view?usp=drivesdk)
 ```
 
 ---
